@@ -35,10 +35,10 @@ Also, Pursuing Bachelor Degree In Computer Science.
 ![App Screenshot](https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/intershala-ui-clone/1.png)
 
   **Landing Page 3** 
-![App Screenshot](https://surjkhanal.github.io/landing-page-max-cs/)
+![App Screenshot](https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/landing-page-max-cx/full.png)
 
   **Landing Page 4** 
-![App Screenshot](https://surjkhanal.github.io/swiggy-clone-basic-ui)
+![App Screenshot](https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/swiggi-ui-clone/1.png)
 
   **Landing Page 5** 
 ![App Screenshot](https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/confitext/1.png)
