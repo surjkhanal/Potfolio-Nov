@@ -86,12 +86,12 @@ let projectArr = [
         name:"Calcualtor",
         img:['https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/calc/1.png'],
         full_img:"",
-        link:'https://surjkhanal.github.io/calc'
+        link:'https://surjkhanal.github.io/Calculator-UI-and-JS/'
     },
     {
         category: 'front-end',
         name:"Currency Converter",
-        link:'https://github.com/surjkhanal/Currency-Converter',
+        link:'https://surjkhanal.github.io/Currency-Converter/',
         img:[
             'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/currency/1.png',
             'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/currency/2.png'
@@ -101,7 +101,7 @@ let projectArr = [
     {
         category: 'front-end',
         name:"Fashion Store",
-        link:'https://surjkhanal.github.io/fashion-store',
+        link:'https://surjkhanal.github.io/e-commerce-frontend/',
         img:[
             'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/fashion-store/1.png',
             'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/fashion-store/2.png',
@@ -113,7 +113,7 @@ let projectArr = [
     {
         category: 'front-end',
         name:"grammer-corrector",
-        link:'https://surjkhanal.github.io/grammer-corrector',
+        link:'https://surjkhanal.github.io/Grammarly-Project/',
         img:[
             'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/grammer-corrector/1.png',
             'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/grammer-corrector/2.png',
@@ -124,7 +124,7 @@ let projectArr = [
     {
         category: 'front-end',
         name:"food-web",
-        link:'https://surjkhanal.github.io/food-web',
+        link:'https://surjkhanal.github.io/Food-website/',
         img:[
             'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/food-web/1.png',
         ],
@@ -133,7 +133,7 @@ let projectArr = [
     {
         category: 'front-end',
         name:"intershala-ui-clone",
-        link:'https://surjkhanal.github.io/intershala-ui-clone',
+        link:'https://surjkhanal.github.io/internshala-clone/',
         img:[
             'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/intershala-ui-clone/1.png',
         ],
@@ -142,7 +142,7 @@ let projectArr = [
     {
         category: 'front-end',
         name:"landing-page-max",
-        link:'https://surjkhanal.github.io/landing-page-max-cx',
+        link:'https://surjkhanal.github.io/landing-page-max-cs/',
         img:[
             'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/landing-page-max-cx/1.png',
         ],
@@ -151,7 +151,7 @@ let projectArr = [
     {
         category: 'front-end',
         name:"landing-page-food",
-        link:'https://surjkhanal.github.io/landing-page-food',
+        link:'https://surjkhanal.github.io/landing-page-food-card',
         img:[
             'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/landing-page-food/1.png',
         ],
@@ -160,7 +160,7 @@ let projectArr = [
     {
         category: 'front-end',
         name:"swiggi-ui-clone",
-        link:'https://surjkhanal.github.io//swiggi-ui-clone',
+        link:'https://surjkhanal.github.io/swiggy-clone-basic-ui',
         img:[
             'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/swiggi-ui-clone/1.png',
         ],
@@ -169,7 +169,7 @@ let projectArr = [
     {
         category: 'front-end',
         name:"weather app",
-        link:'https://surjkhanal.github.io/weather',
+        link:'https://surjkhanal.github.io/weather-update/',
         img:[
             'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/weather/1.png',
             'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/weather/2.png',
@@ -179,7 +179,7 @@ let projectArr = [
     {
         category: 'full-stack',
         name:"Confitext",
-        link:'https://surjkhanal.github.io/confitext',
+        link:'https://confitextmessenger.web.app/',
         img:['https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/confitext/1.png'],
         full_img:"",
     }
