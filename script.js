@@ -98,18 +98,18 @@ let projectArr = [
         ],
         full_img:"https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/currency/full.png",
     },
-    {
-        category: 'front-end',
-        name:"Fashion Store",
-        link:'https://surjkhanal.github.io/e-commerce-frontend/',
-        img:[
-            'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/fashion-store/1.png',
-            'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/fashion-store/2.png',
-            'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/fashion-store/3.png',
-        ],
-        full_img:
-        'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/fashion-store/full.png',
-    },
+    // {
+    //     category: 'front-end',
+    //     name:"Fashion Store",
+    //     link:'https://surjkhanal.github.io/e-commerce-frontend/',
+    //     img:[
+    //         'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/fashion-store/1.png',
+    //         'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/fashion-store/2.png',
+    //         'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/fashion-store/3.png',
+    //     ],
+    //     full_img:
+    //     'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/fashion-store/full.png',
+    // },
     {
         category: 'front-end',
         name:"grammer-corrector",
@@ -121,42 +121,42 @@ let projectArr = [
         ],
         full_img:"https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/grammer-corrector/full.png",
     },
-    {
-        category: 'front-end',
-        name:"food-web",
-        link:'https://surjkhanal.github.io/Food-website/',
-        img:[
-            'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/food-web/1.png',
-        ],
-        full_img:"",
-    },
-    {
-        category: 'front-end',
-        name:"intershala-ui-clone",
-        link:'https://surjkhanal.github.io/internshala-clone/',
-        img:[
-            'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/intershala-ui-clone/1.png',
-        ],
-        full_img:'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/intershala-ui-clone/full.png',
-    },
-    {
-        category: 'front-end',
-        name:"landing-page-max",
-        link:'https://surjkhanal.github.io/landing-page-max-cs/',
-        img:[
-            'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/landing-page-max-cx/1.png',
-        ],
-        full_img:'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/landing-page-max-cx/full.png',
-    },
-    {
-        category: 'front-end',
-        name:"landing-page-food",
-        link:'https://surjkhanal.github.io/landing-page-food-card',
-        img:[
-            'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/landing-page-food/1.png',
-        ],
-        full_img:"",
-    },
+    // {
+    //     category: 'front-end',
+    //     name:"food-web",
+    //     link:'https://surjkhanal.github.io/Food-website/',
+    //     img:[
+    //         'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/food-web/1.png',
+    //     ],
+    //     full_img:"",
+    // },
+    // {
+    //     category: 'front-end',
+    //     name:"intershala-ui-clone",
+    //     link:'https://surjkhanal.github.io/internshala-clone/',
+    //     img:[
+    //         'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/intershala-ui-clone/1.png',
+    //     ],
+    // //     full_img:'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/intershala-ui-clone/full.png',
+    // },
+    // {
+    //     category: 'front-end',
+    //     name:"landing-page-max",
+    //     link:'https://surjkhanal.github.io/landing-page-max-cs/',
+    //     img:[
+    //         'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/landing-page-max-cx/1.png',
+    //     ],
+    //     full_img:'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/landing-page-max-cx/full.png',
+    // },
+    // {
+    //     category: 'front-end',
+    //     name:"landing-page-food",
+    //     link:'https://surjkhanal.github.io/landing-page-food-card',
+    //     img:[
+    //         'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/landing-page-food/1.png',
+    //     ],
+    //     full_img:"",
+    // },
     {
         category: 'front-end',
         name:"swiggi-ui-clone",
@@ -176,13 +176,13 @@ let projectArr = [
         ],
         full_img:"",
     },
-    {
-        category: 'full-stack',
-        name:"Confitext",
-        link:'https://confitextmessenger.web.app/',
-        img:['https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/confitext/1.png'],
-        full_img:"",
-    }
+    // {
+    //     category: 'full-stack',
+    //     name:"Confitext",
+    //     link:'https://confitextmessenger.web.app/',
+    //     img:['https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/confitext/1.png'],
+    //     full_img:"",
+    // }
 ];
 
 
