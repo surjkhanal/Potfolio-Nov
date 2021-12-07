@@ -43,7 +43,7 @@ let techArr = [
 ]
 let socialArr = [
     {
-        'name':'https://github.com/surjkhanal',
+        'name':'https://github.com/tosudh',
         'icon':'https://img.icons8.com/doodle/36/000000/github--v1.png'
     },
     {
@@ -84,95 +84,95 @@ let projectArr = [
     {
         category: 'back-end',
         name:"Calcualtor",
-        img:['https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/calc/1.png'],
+        img:['https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/calc/1.png'],
         full_img:"",
-        link:'https://surjkhanal.github.io/Calculator-UI-and-JS/'
+        link:'https://tosudh.github.io/Calculator-UI-and-JS/'
     },
     {
         category: 'front-end',
         name:"Currency Converter",
-        link:'https://surjkhanal.github.io/Currency-Converter/',
+        link:'https://tosudh.github.io/Currency-Converter/',
         img:[
-            'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/currency/1.png',
-            'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/currency/2.png'
+            'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/currency/1.png',
+            'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/currency/2.png'
         ],
-        full_img:"https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/currency/full.png",
+        full_img:"https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/currency/full.png",
     },
     // {
     //     category: 'front-end',
     //     name:"Fashion Store",
-    //     link:'https://surjkhanal.github.io/e-commerce-frontend/',
+    //     link:'https://tosudh.github.io/e-commerce-frontend/',
     //     img:[
-    //         'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/fashion-store/1.png',
-    //         'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/fashion-store/2.png',
-    //         'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/fashion-store/3.png',
+    //         'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/fashion-store/1.png',
+    //         'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/fashion-store/2.png',
+    //         'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/fashion-store/3.png',
     //     ],
     //     full_img:
-    //     'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/fashion-store/full.png',
+    //     'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/fashion-store/full.png',
     // },
     {
         category: 'front-end',
         name:"grammer-corrector",
-        link:'https://surjkhanal.github.io/Grammarly-Project/',
+        link:'https://tosudh.github.io/Grammarly-Project/',
         img:[
-            'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/grammer-corrector/1.png',
-            'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/grammer-corrector/2.png',
-            'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/grammer-corrector/3.png',
+            'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/grammer-corrector/1.png',
+            'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/grammer-corrector/2.png',
+            'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/grammer-corrector/3.png',
         ],
-        full_img:"https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/grammer-corrector/full.png",
+        full_img:"https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/grammer-corrector/full.png",
     },
     // {
     //     category: 'front-end',
     //     name:"food-web",
-    //     link:'https://surjkhanal.github.io/Food-website/',
+    //     link:'https://tosudh.github.io/Food-website/',
     //     img:[
-    //         'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/food-web/1.png',
+    //         'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/food-web/1.png',
     //     ],
     //     full_img:"",
     // },
     // {
     //     category: 'front-end',
     //     name:"intershala-ui-clone",
-    //     link:'https://surjkhanal.github.io/internshala-clone/',
+    //     link:'https://tosudh.github.io/internshala-clone/',
     //     img:[
-    //         'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/intershala-ui-clone/1.png',
+    //         'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/intershala-ui-clone/1.png',
     //     ],
-    // //     full_img:'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/intershala-ui-clone/full.png',
+    // //     full_img:'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/intershala-ui-clone/full.png',
     // },
     // {
     //     category: 'front-end',
     //     name:"landing-page-max",
-    //     link:'https://surjkhanal.github.io/landing-page-max-cs/',
+    //     link:'https://tosudh.github.io/landing-page-max-cs/',
     //     img:[
-    //         'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/landing-page-max-cx/1.png',
+    //         'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/landing-page-max-cx/1.png',
     //     ],
-    //     full_img:'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/landing-page-max-cx/full.png',
+    //     full_img:'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/landing-page-max-cx/full.png',
     // },
     // {
     //     category: 'front-end',
     //     name:"landing-page-food",
-    //     link:'https://surjkhanal.github.io/landing-page-food-card',
+    //     link:'https://tosudh.github.io/landing-page-food-card',
     //     img:[
-    //         'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/landing-page-food/1.png',
+    //         'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/landing-page-food/1.png',
     //     ],
     //     full_img:"",
     // },
     {
         category: 'front-end',
         name:"swiggi-ui-clone",
-        link:'https://surjkhanal.github.io/swiggy-clone-basic-ui',
+        link:'https://tosudh.github.io/swiggy-clone-basic-ui',
         img:[
-            'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/swiggi-ui-clone/1.png',
+            'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/swiggi-ui-clone/1.png',
         ],
         full_img:"",
     },
     {
         category: 'front-end',
         name:"weather app",
-        link:'https://surjkhanal.github.io/weather-update/',
+        link:'https://tosudh.github.io/weather-update/',
         img:[
-            'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/weather/1.png',
-            'https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/weather/2.png',
+            'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/weather/1.png',
+            'https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/weather/2.png',
         ],
         full_img:"",
     },
@@ -180,7 +180,7 @@ let projectArr = [
     //     category: 'full-stack',
     //     name:"Confitext",
     //     link:'https://confitextmessenger.web.app/',
-    //     img:['https://raw.githubusercontent.com/surjkhanal/static-data/master/project-snap/confitext/1.png'],
+    //     img:['https://raw.githubusercontent.com/tosudh/static-data/master/project-snap/confitext/1.png'],
     //     full_img:"",
     // }
 ];
